@@ -29,11 +29,15 @@ Market Basket Analysis Discover frequently purchased product combinations. Sugge
 Predictive Analytics Forecast future sales trends for strategic planning. Optimize inventory levels and reduce stockouts or overstocking.
 
 # Key Visualizations
-Sales by Outlet Age
-Sales by Item Visibility
-Sales by Outlet Type and Size
-Best and Worst Performing Products
-Impact of Customer Ratings on Sales
+Sales by Outlet Age.
+
+Sales by Item Visibility.
+
+Sales by Outlet Type and Size.
+
+Best and Worst Performing Products.
+
+Impact of Customer Ratings on Sales.
 
 # Tools and Technologies
 Power BI: Used for building the interactive dashboard.
