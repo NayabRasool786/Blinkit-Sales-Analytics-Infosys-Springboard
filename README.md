@@ -51,10 +51,6 @@ Relationship between product visibility, ratings, and sales trends.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-#  File Details
-
-File Name: Blinkit_Project_.pbix Tool Used: Power BI Purpose: Interactive dashboards for sales data analysis. Contents: Overview Dashboard: High-level KPIs and trends. Customer Analysis: Segmentation and preferences. Product Insights: Category-wise performance. Sales Trends: Time-series visualizations. Regional Insights: Location-based performance.
-
 #  Requirements
 
 To access and interact with the file: Install Power BI Desktop. Open the .pbix file in Power BI to explore dashboards and insights.
