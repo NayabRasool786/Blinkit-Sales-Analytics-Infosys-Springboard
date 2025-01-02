@@ -37,6 +37,7 @@ Impact of Customer Ratings on Sales
 
 # Tools and Technologies
 Power BI: Used for building the interactive dashboard.
+
 Excel Dataset: Simulated sales data for learning and demonstration purposes.
 
 # Insights
