@@ -2,10 +2,10 @@
 Blinkit-Sales-Analytics-Infosys-Springboard
 
 
-# 📊 Project Overview
+#  Project Overview
 This project analyzes Blinkit's sales data to uncover actionable insights into customer behavior, product performance, sales trends, and geographical sales distribution. The analysis aids in decision-making for inventory optimization, demand forecasting, and revenue growth.
 
-# 🔍 Key Features
+#  Key Features
 Sales Metrics: Total sales revenue and outlet-specific performance visualized for easy analysis.
 
 Outlet Insights: Sales patterns based on outlet type, size, location, and age.
@@ -51,14 +51,14 @@ Relationship between product visibility, ratings, and sales trends.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-# 🛠️ File Details
+#  File Details
 
 File Name: Blinkit_Project_.pbix Tool Used: Power BI Purpose: Interactive dashboards for sales data analysis. Contents: Overview Dashboard: High-level KPIs and trends. Customer Analysis: Segmentation and preferences. Product Insights: Category-wise performance. Sales Trends: Time-series visualizations. Regional Insights: Location-based performance.
 
-# 📝 Requirements
+#  Requirements
 
 To access and interact with the file: Install Power BI Desktop. Open the .pbix file in Power BI to explore dashboards and insights.
 
-# 📂 How to Use
+#  How to Use
 
 Open the File: Load the .pbix file in Power BI Desktop. Explore Dashboards: Navigate through pre-designed dashboards to gain insights. Apply Filters: Use slicers and filters to focus on specific periods, products, or regions. Derive Insights: Leverage visuals and metrics for actionable business strategies.
