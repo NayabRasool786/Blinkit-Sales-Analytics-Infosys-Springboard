@@ -1,6 +1,8 @@
 # Blinkit-Sales-Analytics-Infosys-Springboard
 Blinkit-Sales-Analytics-Infosys-Springboard
 
+![Screenshot 2025-04-30 095153](https://github.com/user-attachments/assets/da2858b4-67bd-4f0f-9018-79149939c7b8)
+
 
 #  Project Overview
 This project analyzes Blinkit's sales data to uncover actionable insights into customer behavior, product performance, sales trends, and geographical sales distribution. The analysis aids in decision-making for inventory optimization, demand forecasting, and revenue growth.
