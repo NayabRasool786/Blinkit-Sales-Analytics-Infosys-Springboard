@@ -65,3 +65,12 @@ To access and interact with the file: Install Power BI Desktop. Open the .pbix f
 #  How to Use
 
 Open the File: Load the .pbix file in Power BI Desktop. Explore Dashboards: Navigate through pre-designed dashboards to gain insights. Apply Filters: Use slicers and filters to focus on specific periods, products, or regions. Derive Insights: Leverage visuals and metrics for actionable business strategies.
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nayabrasool-shaik)
+
+> "Learn deeply, build practically, explain simply, and share widely." – Shaik Nayab Rasool
+
